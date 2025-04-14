@@ -1,0 +1,24 @@
+
+p {
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(115, 125, 115);
+   }
+   #myHeader {
+    background-color: rgb(50, 108, 60);
+    color: black;
+    padding: 40px;
+    text-align: center;
+  } 
+  .city {
+    background-color: rgb(75, 149, 64);
+    color: rgb(3, 3, 3);
+    padding: 10px;
+  }
+  h1 {
+    color: white;
+    text-shadow: 1px 1px 2px rgb(190, 138, 138), 0 0 25px rgb(227, 227, 233), 0 0 5px darkblue;
+  }
+  .intro { 
+    background-color: rgb(222, 53, 53);
+  }
